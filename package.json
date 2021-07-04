@@ -1,0 +1,23 @@
+{
+  "name": "stest",
+  "version": "1.0.0",
+  "description": "JavaScript testing framework with a focus on speed.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "stest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiddharthShyniben/stest.git"
+  },
+  "keywords": [
+    "test",
+    "javascript"
+  ],
+  "author": "SiddharthShyniben <siddharth.muscat@gmail.com> (https://github.com/SiddharthShyniben)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SiddharthShyniben/stest/issues"
+  },
+  "homepage": "https://github.com/SiddharthShyniben/stest#readme"
+}
